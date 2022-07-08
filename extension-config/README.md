@@ -21,7 +21,7 @@ For Assetto Corsa (2014) Requirements:
   
   **example**
   ```
-  [DYNAMIC_OBJECT_*n*]
+  [DYNAMIC_OBJECT_n]
   PROBABILITY=150
   MULT=1,1
   FILE=..\..\objects3D\birds\birds_1.kn5
