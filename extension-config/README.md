@@ -38,4 +38,7 @@ For Assetto Corsa (2014) Requirements:
 - *NOTE. *n* indicates number
 - *NOTE. For 4th instruction, make the number sequence, so if the existing is 4 then continue it with 5 and so on
 
+![image](https://user-images.githubusercontent.com/106296453/177900252-c849e279-84e4-4ef6-8e62-05346d431417.png)
+^if you're confused
+
 Enjoy! :)
