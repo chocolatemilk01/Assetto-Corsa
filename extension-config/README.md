@@ -33,7 +33,7 @@ For Assetto Corsa (2014) Requirements:
   RND_VEL_BASE=3,1,3
   RND_VEL_RANGE=1,1,1
   
-4. If the track already has models.ini, just copy-paste it to the models.ini... **BUT, RENAME THE *n* TO THE NEXT NUMBER FROM THE EXISTING NUMBER IN [DYNAMIC_OBJECT]
+4. If the track already has models.ini, just copy-paste it to the models.ini... **BUT, RENAME THE *n* TO THE NEXT NUMBER FROM THE EXISTING NUMBER IN [DYNAMIC_OBJECT]**
 
 - *NOTE. *n* indicates number
 - *NOTE. For 4th instruction, make the number sequence, so if the existing is 4 then continue it with 5 and so on
