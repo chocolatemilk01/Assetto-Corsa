@@ -1,8 +1,7 @@
 For Assetto Corsa (2014) Requirements:
 
-- LATEST CSP
-- USE Sol WEATHER! If you got Pure it's ok
-- Extension of FX for tracks
+- LATEST CSP! *make sure your CSP is the preview/paid version to have rain*
+- USE Sol WEATHER for **controller** but either Pure or Sol for script is fine
 
 |HOW TO COPY-PASTE IT:|
 
@@ -21,7 +20,7 @@ For Assetto Corsa (2014) Requirements:
 3. Make custom [DYNAMIC_OBJECT_*n*] to track's models.ini (if the track doesn't have one, make one)
   
   **example**
-  
+  ```
   [DYNAMIC_OBJECT_*n*]
   PROBABILITY=150
   MULT=1,1
@@ -32,7 +31,7 @@ For Assetto Corsa (2014) Requirements:
   VEL_MODE=RANDOM
   RND_VEL_BASE=3,1,3
   RND_VEL_RANGE=1,1,1
-  
+  ```
 4. If the track already has models.ini, just copy-paste it to the models.ini... **BUT, RENAME THE *n* TO THE NEXT NUMBER FROM THE EXISTING NUMBER IN [DYNAMIC_OBJECT]**
 
 - *NOTE. *n* indicates number
