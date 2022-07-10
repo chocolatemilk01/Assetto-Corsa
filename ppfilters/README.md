@@ -13,6 +13,7 @@ For Assetto Corsa (2014) Requirements:
 5. Move it to the game directory ...\assettocorsa\system\cfg\ppfilters
 --------------------------------------------------------------------------------
 **Copy-paste pure_config.ini**
+
 Overall the same as **Copy-paste [ppfilter-name].ini** but the directory is different. ...\assettocorsa\extension\config-ext\Pure
 
 Enjoy! :)
