@@ -12,6 +12,7 @@ For Assetto Corsa (2014) Requirements:
 5. Rename the extension file from .txt to .ini and if there's warning proceed it
 --------------------------------------------------------------------------------
 **Copy-paste models.ini**
+
 Overall the same as the **Copy-paste ext_config.ini** but most track already
 come with models.ini but if your track doesn't, make one. By simply create .txt file, name it models and rename the extension name to .ini
 then you want to copy the .kn5 name and paste it on there with this line...
@@ -41,6 +42,5 @@ RND_VEL_BASE=2,0,2
 1. Download it, because this isn't a classic code lines like .ini or .txt
 2. Put it to the track's folder
 3. Done
---------------------------------------------------------------------------------
 
 Enjoy! :)
