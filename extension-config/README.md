@@ -16,7 +16,7 @@ For Assetto Corsa (2014) Requirements:
 Overall the same as the **Copy-paste ext_config.ini** but most track already
 come with models.ini but if your track doesn't, make one. By simply create .txt file, name it models and rename the extension name to .ini
 then you want to copy the .kn5 name and paste it on there with this line...
-```
+```ini
 [MODEL_0]
 FILE=[.kn5 name].kn5
 POSITION=0,0,0
@@ -27,7 +27,7 @@ If you want add more objects or models to it, make another and rename the number
 You want add a moving object like birds? Still the same but with this line...
 
 And if you want to add more dynamic object to it, it's still the same as the previous one
-```
+```ini
 [DYNAMIC_OBJECT_0]
 PROBABILITY=100
 MULT=1,1
