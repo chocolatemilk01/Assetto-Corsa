@@ -19,8 +19,6 @@ For Assetto Corsa (2014) **OPTIONAL** Requirements:
 
 Overall the same as **Copy-paste [ppfilter-name].ini** but the directory is different. ...\assettocorsa\extension\config-ext\Pure
 
----
-
 ## Troubleshooting
 If you have any problems or wanted to ask the guide How-to, just ask me by creating an "Issue"
 
