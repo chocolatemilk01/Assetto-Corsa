@@ -22,10 +22,11 @@ FILE=[.kn5 name].kn5
 POSITION=0,0,0
 ROTATION=0,0,0
 ```
-But if you want add more objects or models to it... make another and rename the number to a sequence
-(e.g. from 0 to 1, 1 to 2 and so on...
+If you want add more objects or models to it, make another and rename the number to a sequence
 
 You want add a moving object like birds? Still the same but with this line...
+
+And if you want to add more dynamic object to it, it's still the same as the previous one
 ```
 [DYNAMIC_OBJECT_0]
 PROBABILITY=100
@@ -42,5 +43,8 @@ RND_VEL_BASE=2,0,2
 1. Download it, because this isn't a classic code lines like .ini or .txt
 2. Put it to the track's folder
 3. Done
+--------------------------------------------------------------------------------
+## Troubleshooting
+If you have any problems or wanted to ask the guide How-to, just ask me by creating an "Issue"
 
 Enjoy! :)
