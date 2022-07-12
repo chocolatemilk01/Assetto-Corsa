@@ -43,7 +43,6 @@ RND_VEL_BASE=2,0,2
 1. Download it, because this isn't a classic code lines like .ini or .txt
 2. Put it to the track's folder
 3. Done
--
 
 ## Troubleshooting
 If you have any problems or wanted to ask the guide How-to, just ask me by creating an "Issue"
