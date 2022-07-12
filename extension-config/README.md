@@ -10,7 +10,9 @@ For Assetto Corsa (2014) Requirements:
 3. Copy all the content from .ini from here to the .txt previously made
 4. Paste & save it
 5. Rename the extension file from .txt to .ini and if there's warning proceed it
---------------------------------------------------------------------------------
+
+---
+
 **Copy-paste models.ini**
 
 Overall the same as the **Copy-paste ext_config.ini** but most track already
@@ -25,8 +27,6 @@ ROTATION=0,0,0
 If you want add more objects or models to it, make another and rename the number to a sequence
 
 You want add a moving object like birds? Still the same but with this line...
-
-And if you want to add more dynamic object to it, it's still the same as the previous one
 ```ini
 [DYNAMIC_OBJECT_0]
 PROBABILITY=100
@@ -38,9 +38,12 @@ RND_POS_RANGE=100,50,100
 VEL_MODE=RANDOM
 RND_VEL_BASE=2,0,2
 ```
---------------------------------------------------------------------------------
+And if you want to add more dynamic object to it, it's still the same as the previous one
+
+---
+
 **Install a VAO Patch file**
-1. Download it, because this isn't a classic code lines like .ini or .txt
+1. Download it
 2. Put it to the track's folder
 3. Done
 
