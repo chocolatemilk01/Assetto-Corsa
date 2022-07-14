@@ -14,4 +14,7 @@ Assetto Corsa (Italian for "Race Setup") is a sim racing video game developed by
 It can be simple and also complex making the extension, so... the guide also content is on here:
 > https://github.com/ac-custom-shaders-patch/acc-extension-
 
+You can download all my mods on here:
+> https://www.racedepartment.com/members/raydavid.1186789/
+
 Thanks to Ilja Jusupov/x4fab for making CSP to improve Assetto Corsa
