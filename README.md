@@ -1,8 +1,8 @@
-# Assetto Corsa
+# Assetto Corsa [^1]
 
 Assetto Corsa (Italian for "Race Setup") is a sim racing video game developed by the Italian video game developer Kunos Simulazioni. It is designed with an emphasis on a realistic racing experience with support for extensive customization and moddability. The game was first released through the Steam Early Access program on 8 November 2013 and officially left Early Access as final release version on 19 December 2014.
 
-<sup>https://en.wikipedia.org/wiki/Assetto_Corsa</sup>
+[^1]: https://en.wikipedia.org/wiki/Assetto_Corsa
 
 # DIY Extension
 
