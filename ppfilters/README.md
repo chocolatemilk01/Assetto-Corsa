@@ -3,7 +3,7 @@ For Assetto Corsa (2014) **OPTIONAL** Requirements:
 - Latest CSP!
 - Sol, preferably Pure for improve fps a bit and better looking environment (depends the colour grading)
 
-*NOTE.* The pure config is using skydome and if you don't have it or not using Pure. Assetto Corsa will automatically switch to the 3D Clouds
+> *NOTE.* The pure config is using skydome and if you don't have it or not using Pure. Assetto Corsa will automatically switch to the 3D Clouds
 
 ## How-to
 **Copy-paste [ppfilter-name].ini**
