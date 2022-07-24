@@ -56,7 +56,7 @@ RND_VEL_BASE=2,0,2
 2. Put it to the track's folder
 3. Done
 
-> *NOTE.* You can check wheter the VAO Patch has been installed correctly, you can check it [here](https://github.com/ac-custom-shaders-patch/acc-extension-apps)
+> *NOTE.* You can check whether the VAO Patch has been installed correctly, you can check it [here](https://github.com/ac-custom-shaders-patch/acc-extension-apps)
 
 ## Troubleshooting
 
