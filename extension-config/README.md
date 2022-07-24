@@ -1,4 +1,4 @@
-# Complete Extension Pack
+# Extension Config
 
 For Assetto Corsa (2014) **Requirements**:
 
