@@ -4,14 +4,13 @@ Assetto Corsa (Italian for "Race Setup") is a sim racing video game developed by
 
 [^1]: https://en.wikipedia.org/wiki/Assetto_Corsa
 
-# DIY Extension
+# DIY - Do it yourself
 
-1. Make a folder named "extension" inside the track's folder
-2. Make .txt file, rename to "ext_config" and apply
-3. Write the content you want to add, you can copy-paste from another and modify it
-4. Rename the **.txt** to **.ini** and confirm
+All my mods from ppfilter (Post Process Filter) and extension are DIY [^2]. And I'm using the guide because it's foundation of me making it
 
-It can be simple and also complex making the extension. That's why there's a [guide](https://github.com/ac-custom-shaders-patch/acc-extension-)
+[^2]: Nah, I sometimes stole it from other lmao
+
+[Ultimate Guide](https://github.com/ac-custom-shaders-patch/acc-extension-)
 
 You can download all my mods on [here](https://www.racedepartment.com/members/raydavid.1186789/)
 
