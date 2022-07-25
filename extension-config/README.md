@@ -9,7 +9,7 @@ For Assetto Corsa (2014) **Requirements**:
 
 ## How-to
 
-**Copy-paste ext_config.ini**
+### Copy-paste ext_config.ini
 
 1. Make a folder name it "extension" inside the track's folder
 2. Make a blank .txt file and name it "ext_config"
@@ -17,9 +17,19 @@ For Assetto Corsa (2014) **Requirements**:
 4. Paste & save it
 5. Rename the extension file from .txt to .ini and if there's warning proceed it
 
+###### Directory
+
+```
+assettocorsa
+|__content
+   |__tracks
+      |__[track's folder name]
+         |__extension
+```
+
 ---
 
-**Copy-paste models.ini**
+### Copy-paste models.ini
 
 Overall the same as the **Copy-paste ext_config.ini** but most track already
 come with models.ini but if your track doesn't, make one. By simply create .txt file, name it **"models"** and rename the extension name to .ini
@@ -50,7 +60,7 @@ RND_VEL_BASE=2,0,2
 
 ---
 
-**Install a VAO Patch file**
+### Install a VAO Patch file
 
 1. Download it
 2. Put it to the track's folder
