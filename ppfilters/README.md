@@ -11,7 +11,14 @@ For Assetto Corsa (2014) **OPTIONAL** Requirements:
 2. Copy the all the content from [ppfilter-name].ini from here to the .txt previously made
 3. Paste & save it
 4. Rename the extension file from .txt to .ini and if there's warning proceed it
-5. Move it to the game directory ...\assettocorsa\system\cfg\ppfilters
+5. Move it to the game directory
+
+```
+assettocorsa
+|__system
+   |__cfg
+      |__ppfilters
+```
 
 ---
 
