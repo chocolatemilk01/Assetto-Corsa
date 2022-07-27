@@ -16,10 +16,10 @@ For Assetto Corsa (2014) **OPTIONAL** Requirements:
 ###### Directory
 
 ```
-assettocorsa
-|__system
-   |__cfg
-      |__ppfilters
+\---assettocorsa
+    +---system
+        +---cfg
+            \---ppfilters
 ```
 
 ---
@@ -31,10 +31,10 @@ Overall the same as **Copy-paste [ppfilter-name].ini** but the directory is diff
 ###### Directory
 
 ```
-assettocorsa
-|__extension
-   |__config-ext
-      |__Pure
+\---assettocorsa
+    +---extension
+        +---config-ext
+            \---Pure
 ```
 
 ## Troubleshooting
