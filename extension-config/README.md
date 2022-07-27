@@ -20,11 +20,11 @@ For Assetto Corsa (2014) **Requirements**:
 ###### Directory
 
 ```
-assettocorsa
-|__content
-   |__tracks
-      |__[track's folder name]
-         |__extension
+\---assettocorsa
+    +---content
+        +---tracks
+            +---%trackname%
+                \---extension
 ```
 
 ---
